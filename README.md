@@ -3,7 +3,7 @@
 *Estudante de Análise e Desenvolvimento de Sistemas (ADS) | Em transição de carreira para a Tecnologia da Informação.*
 
 # 2. ☻ Sobre mim
-Sou um profissional com uma trajetória sólida de quase 17 anos de experiência, dividida entre a alta complexidade da indústria pesada e o rigor da segurança pública. Atuei por 7 anos e meio como Técnico de Manutenção Elétrica na CSN (Companhia Siderúrgica Nacional), onde desenvolvi um raciocínio lógico apurado e diagnóstico ágil de sistemas complexos. Há 9 anos, atuo como Policial Militar da ativa, o que consolidou minhas competências em disciplina rigorosa, adaptabilidade extrema e tomada de decisões sob pressão.
+Sou um profissional com uma trajetória sólida de quase 17 anos de experiência, dividida entre a alta complexidade da indústria pesada e o rigor da segurança pública. Atuei por 7 anos e meio como Técnico de Manutenção Elétrica na CSN (Companhia Siderúrgica Nacional), onde desenvolvi um raciocínio lógico apurado e diagnóstico ágil de sistemas complexos. Há 9 anos, atuo como Policial Militar, o que consolidou minhas competências em disciplina rigorosa, adaptabilidade extrema e tomada de decisões sob pressão.
 Atualmente, decidi canalizar essa forte bagagem de resolução de problemas e lógica para o universo digital. Meu objetivo profissional é ingressar no mercado de tecnologia, aplicando minha resiliência e foco no desenvolvimento de softwares eficientes, com especial interesse nas áreas de lógica de programação, arquitetura de sistemas e banco de dados.
 
 # 3. ▣ Projetos
