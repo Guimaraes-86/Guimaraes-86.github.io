@@ -20,7 +20,7 @@ Atualmente, decidi canalizar essa forte bagagem de resolução de problemas e l�
 
 # 5. ▿ Formação
 - **Graduação Superior de Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)**  
-  *[Universidade Cruzeiro do SUl]* | Cursando (Previsão de término: [2028])
+  *[Universidade Cruzeiro do SUl]* | Cursando (Previsão de conclusão: [2028])
 - **Curso Técnico em Eletrônica**  
   *[Instituto de Cultura Técnica]* | Concluído em 2010
 
